@@ -1,2 +1,4 @@
 # HiveConn
-提交python利用pyhive链接Hive的demo
+##利用pyhive链接Hive
+##封装hive shell操作Hive
+
